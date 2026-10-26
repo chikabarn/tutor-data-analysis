@@ -1,0 +1,8 @@
+{
+  "name": "data-career-trainer",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "34-week self-study trainer for PL-300, Python & ML, and DP-600.",
+  "engines": { "node": ">=18" }
+}
